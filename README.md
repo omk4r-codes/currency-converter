@@ -18,7 +18,7 @@ A simple and user-friendly currency converter web application that allows users 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   https://github.com/omk4r-codes/currency-converter.git
    cd currency-converter
 
 2. **Go to `script.js` and add your `API KEY`**
